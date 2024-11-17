@@ -48,11 +48,15 @@ Welcome to my GitHub! I'm a passionate software engineer who loves to solve prob
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let’s Connect!
 
-Feel free to reach out if you're interested in collaborating or just want to talk tech:
+<p align="center">
+<a href="https://linkedin.com/in/s-v-v-durga-prasad/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:prasad88603@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/SvvDurgaprasad/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
 
-- [LinkedIn](www.linkedin.com/in/s-v-v-durga-prasad)
 
 
 ---
