@@ -1,6 +1,6 @@
-# 👋 Hello, I'm S v v Durga Prasad!
+# 🌟 Welcome to My GitHub Profile! 
 
-Welcome to my GitHub! I'm a passionate software engineer who loves to solve problems with code. Here's where I showcase my projects, contributions, and continuous learning journey in the world of technology.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20S%20v%20v%20Durga%20Prasad!&fontSize=50&fontColor=fff&animation=fadeIn)
 
 ---
 
