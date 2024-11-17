@@ -43,7 +43,8 @@
 
 ## 🏆 Achievements & Certifications
 
-- **Internship in Artificial Intelligence** - [Certification Link](https://drive.google.com/file/d/1URi71jNxJ6YDDJA6PFtUwXy35tzmMCdG/view?usp=sharing)
+-  🥇 **Internship in Artificial Intelligence** - [Certification Link](https://drive.google.com/file/d/1URi71jNxJ6YDDJA6PFtUwXy35tzmMCdG/view?usp=sharing)
+- 
 
 ## 🤝 Let’s Connect!
 
@@ -65,7 +66,7 @@ When I’m not coding, I love  playing chess, hiking. I believe that creativity 
 ⭐️ **If you like what you see, don’t forget to give a star to my projects!**
 
 ---
----
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
