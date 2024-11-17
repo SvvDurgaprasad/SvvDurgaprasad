@@ -45,7 +45,16 @@ Welcome to my GitHub! I'm a passionate software engineer who loves to solve prob
 
 - **Internship in Artificial Intelligence** - [Certification Link](https://drive.google.com/file/d/1URi71jNxJ6YDDJA6PFtUwXy35tzmMCdG/view?usp=sharing)
 
+## 🤝 Let’s Connect!
 
+<p align="center">
+<a href="https://linkedin.com/in/s-v-v-durga-prasad/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="mailto:prasad88603@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</p>
+
+---
 
 ## 💡 Fun Fact
 
@@ -57,13 +66,4 @@ When I’m not coding, I love  playing chess, hiking. I believe that creativity 
 
 ---
 
-## 🤝 Let’s Connect!
 
-<p align="center">
-<a href="https://linkedin.com/in/s-v-v-durga-prasad/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="mailto:prasad88603@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</p>
-
----
