@@ -54,9 +54,15 @@
 
 ---
 
-## 💡 Fun Fact
+## 💡 **Fun Fact**
 
-When I’m not coding, I love  playing chess, hiking. I believe that creativity and problem-solving go hand in hand!
+<div style="padding: 10px; border: 2px solid #ccc; border-radius: 8px; background: #f9f9f9; line-height: 1.6; font-family: Arial, sans-serif;">
+
+When I’m not immersed in code, you’ll find me sharpening my strategies over a game of **chess** ♟️ or exploring the great outdoors on a **hike** 🥾.  
+
+I believe **creativity** and **problem-solving** are two sides of the same coin, and these hobbies keep my mind sharp and my spirit adventurous! 🌟  
+
+</div>
 
 ---
 
