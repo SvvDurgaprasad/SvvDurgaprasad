@@ -50,7 +50,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/s-v-v-durga-prasad/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="mailto:prasad88603@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </p>
