@@ -42,6 +42,7 @@
 
 -  🥇 **IBM Internship in Artificial Intelligence** - [Certification Link](https://drive.google.com/file/d/1URi71jNxJ6YDDJA6PFtUwXy35tzmMCdG/view?usp=sharing)
   
+---
 
 ## 🤝 Let’s Connect!
 
