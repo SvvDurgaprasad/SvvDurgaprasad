@@ -69,7 +69,7 @@ I believe **creativity** and **problem-solving** are two sides of the same coin,
 
 ⭐️ **If you like what you see, don’t forget to give a star to my projects!**
 
----
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
