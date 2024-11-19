@@ -41,6 +41,7 @@
 ## 🏆 Achievements & Certifications
 
 -  🥇 **IBM Internship in Artificial Intelligence** - [Certification Link](https://drive.google.com/file/d/1URi71jNxJ6YDDJA6PFtUwXy35tzmMCdG/view?usp=sharing)
+-  🥇 **Generative AI By Linkedin Learning** - [Certification Link](https://drive.google.com/file/d/1jI66BErvjxwlS5Z03tq0CBr5XNMhNnn4/view?usp=sharing)
   
 ---
 
