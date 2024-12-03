@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20S%20v%20v%20Durga%20Prasad!&fontSize=50&fontColor=fff&animation=fadeIn)
      
 ---   
- 
+  
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **A QUIZ APPLICATION** — Building a dynamic and interactive platform where users can take quizzes on various topics. The application allows users to answer multiple-choice questions, track their scores, and review their performance after completing the quiz. It's built to be user-friendly and scalable, with an admin panel for creating and managing quizzes. I’m incorporating features like real-time score updates, time limits for each quiz, and the ability to share results on social media
