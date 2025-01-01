@@ -4,7 +4,7 @@
       
 ---      
     
-## 🚀 About Me
+## 🚀 About Me 
 
 - 🔭 I’m currently working on **A QUIZ APPLICATION** — Building a dynamic and interactive platform where users can take quizzes on various topics. The application allows users to answer multiple-choice questions, track their scores, and review their performance after completing the quiz. It's built to be user-friendly and scalable, with an admin panel for creating and managing quizzes. I’m incorporating features like real-time score updates, time limits for each quiz, and the ability to share results on social media
 - 🌱 I’m learning ** Python, Django, React**.
