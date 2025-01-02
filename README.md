@@ -13,7 +13,7 @@
 - 🌍 I'm based in **INDIA**, but my work speaks globally! 
 - 📫 How to reach me: **prasad88603@gmail.com** or follow me on [LinkedIn](www.linkedin.com/in/s-v-v-durga-prasad).
 
---- 
+---   
  
 ## 🛠️ Skills & Technologies
 
