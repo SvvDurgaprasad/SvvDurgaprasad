@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub Profile!  
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20S%20v%20v%20Durga%20Prasad!&fontSize=50&fontColor=fff&animation=fadeIn)
-        
+         
 ---      
  
 ## 🚀 About Me 
